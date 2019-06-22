@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1047479032051",
+    "firebase_url": "https://grocerylistsaver.firebaseio.com",
+    "project_id": "grocerylistsaver",
+    "storage_bucket": "grocerylistsaver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047479032051:android:a7f801630a8a72de",
+        "android_client_info": {
+          "package_name": "com.wolfie.grocerylistsaver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047479032051-p043a7v3umfiq08a76b05hou69g74ou6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wolfie.grocerylistsaver",
+            "certificate_hash": "1fdda49cc49136bc1e13ea33f334f6bb9ea9050d"
+          }
+        },
+        {
+          "client_id": "1047479032051-98545c38g623qle94rvma4ir1autnklf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsfK9U9FqbPFQb03HgpAXtPAbn0meeNkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047479032051-98545c38g623qle94rvma4ir1autnklf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Grocery List Saver</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="forgetpass">Forget Password</string>
+    <string name="cnfpass">Confirm Password</string>
+    <array name="category">
+        <item>Beverages</item>
+        <item>Bread/Bakery</item>
+        <item>Vegetables</item>
+        <item>Dairy</item>
+        <item>Baking Products</item>
+        <item>Frozen Food</item>
+        <item>Meat</item>
+        <item>Alcohol</item>
+        <item>Cleaners</item>
+        <item>Personal Care</item>
+        <item>Others</item>
+    </array>
+    <array name="size">
+        <item>Kg</item>
+        <item>Lt</item>
+        <item>Item</item>
+    </array>
+    <array name="priority">
+        <item>High</item>
+        <item>Medium</item>
+        <item>Low</item>
+    </array>
+</resources>
